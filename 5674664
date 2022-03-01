@@ -2,7 +2,7 @@
 main()
 {
 int y,e,x,z;
-scanf("%f", &y)
+scanf("%f", &x)
 y=pow(e,x);
 z=y/2;
 printf("otvet %f\n,z);
